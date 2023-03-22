@@ -4,6 +4,7 @@
     src: url('Quicksand-Regular.woff') format('woff'),
          url('Quicksand-Regular.ttf') format('truetype');
 }
+
 /*
    New Perspectives on HTML5 and CSS3, 8th Edition
    Tutorial 2
@@ -16,7 +17,6 @@
    Filename: tss_styles.css
 
 */
-
 /* HTML and Body Styles */
 html{
     background-color: hsl(27,72%,72%);
@@ -105,13 +105,13 @@ article#about_tss h2{
  
  /* List Styles */
 article#about_tss ul li:first-of-type{
-    list-style-image: url("file:///C:/Users/hecto/AppData/Local/Temp/Temp2_Tutorial+2_data+files%20(1).zip/runicon.png");
+    list-style-image: url("file:///C:/Users/hecto/Pictures/runicon.png");
 }
 article#about_tss ul li:nth-of-type(2){
     list-style-image: url("file:///C:/Users/hecto/Pictures/bikeicon.png");
 }
 article#about_tss ul li:last-of-type{
-    list-style-image: url("file:///C:/Users/hecto/AppData/Local/Temp/Temp2_Tutorial+2_data+files%20(1).zip/swimicon.png");
+    list-style-image: url("file:///C:/Users/hecto/Pictures/swimicon.png");
 }
 
  article.syllabus ol{
